@@ -1,0 +1,23 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryY-Yao/TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarryY-Yao/TDD/issues"
+  },
+  "homepage": "https://github.com/HarryY-Yao/TDD#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.0",
+    "jest": "^30.3.0"
+  }
+}
